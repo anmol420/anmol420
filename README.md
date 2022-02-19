@@ -13,4 +13,5 @@
 
     
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anmol420&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol420&exclude_repo=github-readme-stats,anmol420.github.io)](https://github.com/anmol420/github-readme-stats)
