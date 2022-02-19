@@ -6,12 +6,41 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Passionate Developer From India</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## About Me
+- Working On Java & Js Projects
+- Learning Golang
+- Music Lover
+- A Little Bit Of Everything
 
-    
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anmol420&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+## Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol420&theme=algolia" alt="anmol420" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmol420&exclude_repo=github-readme-stats,anmol420.github.io)](https://github.com/anmol420/github-readme-stats)
+## Connect With Me
+<p align="center">
+	<a href="mailto:anmolanand2k15@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/anmol420"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.instagram.com/anmol_dev_004/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+## Languages and Tools
+<p align="center"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+## Github Stats
+<p align="center">
+    <a href="https://github.com/amol420/github-readme-stats"><img alt="anmol420's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anmol420&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+</p>
+
+## Top Languages
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol420&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anmol420" height="192px"/>
+</p>
+
+## Recent GitHub Activity
+<a href="https://github.com/anmol420"><img alt="anmol420's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anmol420&custom_title=anmol420's%20Contribution%20Graph&theme=react-dark" /></a>
+
+## Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol420&layout=compact&theme=algolia" alt="anmol420" /></a> </p>
+
+-----
