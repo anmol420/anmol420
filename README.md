@@ -10,7 +10,7 @@
 
 ## About Me
 - Working On Java & Js Projects
-- Learning Golang
+- Frontend Web Developer
 - Music Lover
 - A Little Bit Of Everything
 
