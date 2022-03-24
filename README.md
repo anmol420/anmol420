@@ -37,9 +37,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol420&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="anmol420" height="192px"/>
 </p>
 
-## Recent GitHub Activity
-<a href="https://github.com/anmol420"><img alt="anmol420's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=anmol420&custom_title=anmol420's%20Contribution%20Graph&theme=react-dark" /></a>
-
 ## Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol420&layout=compact&theme=algolia" alt="anmol420" /></a> </p>
 
