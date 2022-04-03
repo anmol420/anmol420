@@ -13,6 +13,7 @@
 - Working On Java & C++ Programs
 - Music Lover
 - A Little Bit Of Everything
+- A Code Bug
 
 ## Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol420&theme=algolia" alt="anmol420" /></p>
