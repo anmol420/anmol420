@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Anmol</h1>
-<h3 align="center">A Passionate Developer From India</h3>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 ## About Me
 - A Basic Level Programmer
