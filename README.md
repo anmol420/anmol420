@@ -10,7 +10,7 @@
 
 ## About Me
 - A Basic Level Programmer
-- Working On Java & JavaScript Programs
+- Working On HTML & SCSS Skills
 - Music Lover
 - A Little Bit Of Everything
 - A Code Bug
