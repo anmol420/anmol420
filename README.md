@@ -10,7 +10,7 @@
 
 ## About Me
 - A Basic Level Programmer
-- Working On HTML & SCSS Skills
+- Working On HTML & CSS Skills
 - Music Lover
 - A Little Bit Of Everything
 - A Code Bug
