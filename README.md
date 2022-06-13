@@ -1,4 +1,5 @@
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anmol420&label=Profile%20views&color=0e75b6&style=flat" alt="anmol420" />
     <a href="https://github.com/anmol420">
         <img alt="github"
             src="https://img.shields.io/github/stars/anmol420?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
@@ -10,7 +11,7 @@
 
 ## About Me
 - A Basic Level Programmer
-- Working On HTML & CSS Skills
+- Working On ReactJS
 - Music Lover
 - A Little Bit Of Everything
 - A Code Bug
