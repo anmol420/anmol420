@@ -11,7 +11,7 @@
 
 ## About Me
 - A Boring Developer
-- Working On Flutter Skillz
+- Working On Flutter Skills
 - Music Lover
 - A Little Bit Of Everything
 - A Code Bug
