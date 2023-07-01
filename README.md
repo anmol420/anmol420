@@ -10,8 +10,8 @@
 <h3 align="center">A Passionate Developer From India</h3>
 
 ## About Me
-- A Boring Developer
-- Working On Flutter Skills
+- An Android Developer
+- Working On Flutter
 - Music Lover
 - A Little Bit Of Everything
 - A Code Bug
