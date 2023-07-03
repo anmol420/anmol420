@@ -6,7 +6,7 @@
     </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Anmol</h1>
+<h1 align="center">Hello 👋, I'm Anmol</h1>
 <h3 align="center">A Passionate Developer From India</h3>
 
 ## About Me
