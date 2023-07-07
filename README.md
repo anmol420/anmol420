@@ -13,7 +13,6 @@
 - An Android Developer
 - Working On Flutter
 - Music Lover
-- A Little Bit Of Everything
 - A Code Bug
 
 ## Streak Stats
