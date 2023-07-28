@@ -11,7 +11,7 @@
 
 ## About Me
 - An Android Developer
-- Working On Flutter
+- Working On Flutter & DSA
 - Music Lover
 - A Code Bug
 
