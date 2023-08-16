@@ -12,8 +12,9 @@
 ## About Me
 - An Android Developer
 - Learning Web Development
-- Music Lover
+- Music Lover 
 - A Code Bug
+- Coffee Freak
 - Sleep Deprived
 
 ## Streak Stats
