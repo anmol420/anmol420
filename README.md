@@ -15,7 +15,7 @@
 - Music Lover 
 - A Code Bug
 - Coffee Freak
-- Sleep Deprived 😅
+- Sleep Deprived
 
 ## Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anmol420&theme=algolia" alt="anmol420" /></p>
