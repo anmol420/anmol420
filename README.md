@@ -13,7 +13,7 @@
 
 ## About Me
 - An Android Developer
-- Learning Flutter
+- Learning Flutter & DSA
 - Music Lover 
 - A Code Bug
 - Coffee Freak
