@@ -12,7 +12,7 @@
 <h3 align="center">A Passionate Developer From India</h3>
 
 ## About Me
-- Android Developer
+- Flutter Developer
 - Learning Flutter & DSA [C++]
 - Music Lover 
 - A Code Bug
