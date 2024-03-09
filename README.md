@@ -39,7 +39,7 @@
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a> 
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a> 
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-<a href="https://rocket.rs/" target="_blank"><img style="margin: 10px" src="https://rocket.rs/v0.4/images/logo-boxed.png" alt="Rocket" height="50" /></a>  
+<a href="https://rocket.rs/" target="_blank"><img style="margin: 10px" src="https://i.imgur.com/fGRESFl.png" alt="Rocket" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
