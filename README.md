@@ -12,9 +12,8 @@
 <h3 align="center">A Passionate Developer From India</h3>
 
 ## About Me
-- Flutter Developer
-- Learning 😮‍💨
-- Music Lover 
+- Backend Developer
+- Constant Learner
 - A Code Bug
 - Coffee Freak
 - Sleep Deprived
