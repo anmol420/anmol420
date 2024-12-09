@@ -28,7 +28,7 @@
 
 ## Languages and Tools
 <p align="center"> 
-<img src="https://skillicons.dev/icons?i=express,js,mongodb,nodejs,npm,discordjs,git,github&perline=8&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,js,mongodb,nodejs,npm,discordjs,git,github&perline=8&theme=dark" />
 </p>
 
 <br/>  
