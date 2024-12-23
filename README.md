@@ -28,7 +28,7 @@
 
 ## Languages and Tools
 <p align="center"> 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=express,js,mongodb,nodejs,npm,discordjs,git,github,react,tailwind,ts,nextjs,postman,gemini,markdown,postgres,vscode&perline=8&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=express,js,mongodb,nodejs,npm,discordjs,git,github,react,tailwind,ts,nextjs,postman,gemini,markdown,postgres,vscode,docker&perline=8&theme=dark" />
 </p>
 
 <br/>  
