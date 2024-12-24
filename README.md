@@ -9,7 +9,7 @@
 [![An image of @anmol420's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anmol420)](https://holopin.io/@anmol420)
 
 <h1 align="center">Hello 👋, I'm Anmol</h1>
-<h3 align="center">A Passionate Developer From India</h3>
+<h3 align="center">A Passionate Backend Developer From India</h3>
 
 ## About Me
 - Backend Developer
