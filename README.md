@@ -4,6 +4,7 @@
         <img alt="github"
             src="https://img.shields.io/github/stars/anmol420?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
+    <a href="https://wakatime.com/@7bef6e1f-e04f-4618-938d-b3b0f1dcdd34"><img src="https://wakatime.com/badge/user/7bef6e1f-e04f-4618-938d-b3b0f1dcdd34.svg" alt="Total time coded since Feb 19 2022" /></a>
 </p>
 
 [![An image of @anmol420's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anmol420)](https://holopin.io/@anmol420)
